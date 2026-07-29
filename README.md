@@ -1,3 +1,4 @@
+
 <!--
   ⚡ GITHUB PROFILE README — DARK NEON / CYBERPUNK THEME ⚡
   Replace every "YOUR_USERNAME" below with your actual GitHub username.
@@ -22,7 +23,37 @@
 
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=FF2ED1&labelColor=0f0c29"/>
+</div>
+
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FF2ED1&height=2&width=100%" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github,figma&theme=dark" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FF2ED1&height=2&width=100%" width="100%"/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
+<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-0f0c29?style=for-the-badge&logo=twitter&logoColor=39FF14"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=FF2ED1"/></a>
+<a href="https://YOUR_USERNAME.dev"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FF2ED1&height=2&width=100%" width="100%"/>
 
 ## 📊 GitHub Stats
 
