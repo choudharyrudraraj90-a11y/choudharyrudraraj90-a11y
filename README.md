@@ -1,89 +1,87 @@
+# Hi, I'm [RUDRA RAJ CHOUDHARY] 👋
 
-<!--
-  ⚡ GITHUB PROFILE README — DARK NEON / CYBERPUNK THEME ⚡
-  Replace every "YOUR_USERNAME" below with your actual GitHub username.
--->
+### B.Tech Computer Science Student | First Year
 
-<div align="center">
+I am a first-year B.Tech student specializing in Computer Science. I am passionate about learning programming, problem-solving, web development, and new technologies. I am currently building my skills through academic projects, practice, and consistent learning.
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%20There%20%F0%9F%91%8B&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20crafting%20things%20for%20the%20web&descAlignY=58&descSize=18&descColor=FF2ED1" width="100%"/>
+## About Me
 
-<!-- Neon badges -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0f0c29&logo=statuspage&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/ROLE-WEB%20DEVELOPER-FF2ED1?style=for-the-badge&labelColor=0f0c29&logo=code&logoColor=FF2ED1"/>
-<img src="https://img.shields.io/badge/POWERED%20BY-COFFEE-00F0FF?style=for-the-badge&labelColor=0f0c29&logo=buymeacoffee&logoColor=00F0FF"/>
+- I am pursuing a B.Tech in Computer Science from [College/University Name].
+- I am currently learning programming fundamentals and data structures.
+- I enjoy creating small projects and improving my coding skills.
+- I am interested in software development, web technologies, and open-source projects.
+- My goal is to become a skilled software developer.
 
-<br/>
+## Skills
 
-<!-- Typing effect - optional, remove block if not wanted -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Building+cool+things+on+the+web+💻;Always+shipping%2C+always+learning+🚀;Welcome+to+my+corner+of+GitHub+✨" alt="Typing SVG" />
-</a>
+### Programming Languages
 
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white )
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white )
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=39FF14&style=for-the-badge&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=FF2ED1&labelColor=0f0c29"/>
-</div>
+### Web Technologies
 
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white )
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black )
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FF2ED1&height=2&width=100%" width="100%"/>
+### Tools
 
-## 🛠️ Tech Stack
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white )
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white )
 
-<div align="center">
+## Currently Learning
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,git,github,figma&theme=dark" />
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Frontend Web Development
+- Problem Solving and Competitive Programming
 
-</div>
+## Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FF2ED1&height=2&width=100%" width="100%"/>
+### [Project Name 1]
 
-## 🌐 Connect With Me
+A short description of your project. Mention what the project does and which technologies you used.
 
-<div align="center">
+**Technologies:** HTML, CSS, JavaScript
 
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-0f0c29?style=for-the-badge&logo=twitter&logoColor=39FF14"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=FF2ED1"/></a>
-<a href="https://YOUR_USERNAME.dev"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
+[View Project](https://github.com/your-username/project-name )
 
-</div>
+### [Project Name 2]
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:FF2ED1&height=2&width=100%" width="100%"/>
+A short description of another project that you have created or are currently developing.
 
-## 📊 GitHub Stats
+**Technologies:** Python, C++, or any technology you used
 
-<div align="center">
+[View Project](https://github.com/your-username/project-name )
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=39FF14&icon_color=FF2ED1&text_color=c9d1d9&border_color=39FF14&hide_border=false&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&border_color=FF2ED1&hide_border=false"/>
+## Goals for This Year
 
-</div>
+- Strengthen my programming fundamentals.
+- Solve coding problems regularly.
+- Build useful beginner-friendly projects.
+- Learn Git and GitHub properly.
+- Contribute to open-source projects.
+- Improve my communication and teamwork skills.
 
-<div align="center">
+## GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&border=39FF14&stroke=FF2ED1&ring=39FF14&fire=FF2ED1&currStreakLabel=39FF14&sideLabels=00F0FF&dates=8b949e"/>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight )
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight )
 
-<div align="center">
+## Connect With Me
 
-<!-- Animated GitHub activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&color=39FF14&line=FF2ED1&point=00F0FF&area=true&hide_border=true" width="95%"/>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/ )
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- Portfolio: [Your Portfolio](https://your-portfolio-link.com )
 
-</div>
+## Quote I Like
 
-<br/>
+> "The journey of a thousand miles begins with one step."
 
-<!-- Footer wave -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>✨ Thanks for stopping by — star a repo if something caught your eye ✨</sub>
-</div>
+Thanks for visiting my profile!
